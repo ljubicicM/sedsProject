@@ -1,0 +1,12 @@
+DROP TABLE mlj_dw_storing;
+DROP TABLE mlj_dw_sale; 
+DROP TABLE mlj_dw_customer;
+DROP TABLE mlj_dw_craft;
+DROP TABLE mlj_dw_wh;
+DROP TABLE mlj_dw_city;
+DROP TABLE mlj_dw_regi;
+DROP TABLE mlj_dw_country;
+DROP TABLE mlj_dw_time;
+DROP TABLE mlj_dw_paym_t;
+DROP TABLE mlj_dw_craft_t;
+commit;

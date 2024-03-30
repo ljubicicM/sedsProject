@@ -1,0 +1,9 @@
+DROP TABLE mlj_orderitem;
+DROP TABLE mlj_craft;
+DROP TABLE mlj_warehouse;
+DROP TABLE mlj_artisan;
+DROP TABLE mlj_order;
+DROP TABLE mlj_payment;
+DROP TABLE mlj_customer;
+DROP TABLE mlj_city;
+DROP TABLE mlj_region;
